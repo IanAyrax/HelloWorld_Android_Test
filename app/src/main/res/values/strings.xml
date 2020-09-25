@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hello World Meow</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="count_value">0</string>
+    <string name="toast_message">Hello Toast !</string>
 </resources>
